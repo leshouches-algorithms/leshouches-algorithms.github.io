@@ -1,3 +1,5 @@
+# Towards a theory for typical-case algorithmic hardness
+
 ![Photo of les houches](img/photo.jpg)
 
 Welcome to the website for the workshop _Towards a theory of typical-case algorithmic hardness_, which will take place from the 28/01/2025 to the 8/02/2025 at the Les Houches Physics School in the French alps.

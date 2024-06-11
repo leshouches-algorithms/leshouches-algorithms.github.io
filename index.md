@@ -6,7 +6,7 @@ The workshop theme will be typical-case algorithmic hardness, with a special foc
 
 We will have a set of in-depth lectures, many seminars covering state-of-the-art advances, a poster session, discussion time, and many occasions to explore the amazing surroundings of the school.
 
-__Organisers:__  [Vittorio Erba](https://vittorioerba.github.io)  (EPFL, SPOC Lab.) and [Bruno Loureiro](https://brloureiro.github.io) (ENS, Paris)
+__Organisers:__  [Vittorio Erba](https://vittorioerba.github.io)  (EPFL, SPOC Lab.) and [Bruno Loureiro](https://brloureiro.github.io) (DI-ENS & CNRS, Paris)
 
 ## Confirmed lecturers
 
@@ -37,13 +37,13 @@ Riccardo          Zecchina           	(Bocconi)            <br>
 ## Applications
 
 Applications will open on 1st September 2024, and the deadline will be on 31st October 2024 (you will find a link to the registration form on this site).
-The selection of participants and of contributed speakers will take place shortly after the application deadline. 
+The selection of participants and of contributed speakers will take place shortly after the application deadline.
 <br>
-We warmly invite all applicants to apply either for a contributed talk or for a poster. 
+We warmly invite all applicants to apply either for a contributed talk or for a poster.
 
 ## Practical informations
 
-- The workshop will take place from Monday 27/01/2025 to Friday the 8/02/2025. 
+- The workshop will take place from Monday 27/01/2025 to Friday the 8/02/2025.
 <br>
     Participants are expected to attend for the full duration of the event, arriving on Monday in the afternoon and departing on Friday after lunch.
 
@@ -51,9 +51,9 @@ We warmly invite all applicants to apply either for a contributed talk or for a 
 <br>
     The first week will focus on in-depth lectures, while the second week on conference-like seminars and poster sessions.
 <br>
-    Dedicated discussion time will also be planned to foster exchanges and collaborations. 
+    Dedicated discussion time will also be planned to foster exchanges and collaborations.
 
-- The cost of the workshop is still to be defined (we will update this page in the future). It will cover participation to the activities, accommodation and meals at the Les Houches School for the full duration of the workshop. 
+- The cost of the workshop is still to be defined (we will update this page in the future). It will cover participation to the activities, accommodation and meals at the Les Houches School for the full duration of the workshop.
 <br>
 The first meal included is the dinner of Monday 27/01, and the last one is the lunch of Friday 8/02.
 
@@ -83,7 +83,7 @@ Ecole de Physique des Houches,<br>
 149 Chemin de la Côte, F-74310 Les Houches, France<br>
 [https://houches-school-physics.com](https://houches-school-physics.com)<br>
 
-## Sponsors 
+## Sponsors
 
 <img src="img/cfm.png" alt="drawing" height="90"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -102,5 +102,3 @@ Ecole de Physique des Houches,<br>
 <img src="img/cea.svg" alt="drawing" height="90"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/ens.svg" alt="drawing" height="90"/>
-
-

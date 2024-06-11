@@ -43,7 +43,7 @@ We warmly invite all applicants to apply either for a contributed talk or for a 
 
 ## Practical informations
 
-- The workshop will take place from Monday 27/01/2025 to Friday the 8/02/2025.
+- The workshop will take place from Monday 27/01/2025 to Friday 8/02/2025.
 <br>
     Participants are expected to attend for the full duration of the event, arriving on Monday in the afternoon and departing on Friday after lunch.
 

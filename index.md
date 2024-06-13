@@ -1,6 +1,6 @@
 ![Photo of les houches](img/photo.jpg)
 
-Welcome to the website for the workshop _Towards a theory of typical-case algorithmic hardness_, which will take place from the 28/01/2025 to the 8/02/2025 at the Les Houches Physics School in the French alps.
+Welcome to the website for the workshop _Towards a theory of typical-case algorithmic hardness_, which will take place from the 27/01/2025 to the 7/02/2025 at the Les Houches Physics School in the French alps.
 
 The workshop theme will be typical-case algorithmic hardness, with a special focus on creating bridges between the complementary approaches of theoretical computer science and statistical physics, identifying the crucial open question in the field and linking rigorous and non-rigorous methods.
 
@@ -43,11 +43,11 @@ We warmly invite all applicants to apply either for a contributed talk or for a 
 
 ## Practical informations
 
-- The workshop will take place from Monday 27/01/2025 to Friday 8/02/2025.
+- The workshop will take place from Monday 27/01/2025 to Friday 7/02/2025.
 <br>
-    Participants are expected to attend for the full duration of the event, arriving on Monday in the afternoon and departing on Friday after lunch.
+    Participants are expected to attend for the full duration of the event, arriving on Monday in the afternoon (after 15.00) and departing on Friday after lunch.
 
-- Scientific activities will start on Tuesday 28/01 in the morning and will last up until Friday 8/02, morning included.
+- Scientific activities will start on Tuesday 28/01 in the morning and will last up until Friday 7/02, morning included.
 <br>
     The first week will focus on in-depth lectures, while the second week on conference-like seminars and poster sessions.
 <br>
@@ -55,7 +55,7 @@ We warmly invite all applicants to apply either for a contributed talk or for a 
 
 - The cost of the workshop is still to be defined (we will update this page in the future). It will cover participation to the activities, accommodation and meals at the Les Houches School for the full duration of the workshop.
 <br>
-The first meal included is the dinner of Monday 27/01, and the last one is the lunch of Friday 8/02.
+The first meal included is the dinner of Monday 27/01, and the last one is the lunch of Friday 7/02.
 
 - More informations can be found on [the institute webpage](https://www.houches-school-physics.com/practical-information/).
 

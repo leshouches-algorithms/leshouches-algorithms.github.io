@@ -89,6 +89,8 @@ Ecole de Physique des Houches,<br>
 <img src="img/idephix.jpg" alt="drawing" height="90"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/epfl.png" alt="drawing" height="90"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="img/snsf.jpg" alt="drawing" height="90"/>
 
 ## Partners
 

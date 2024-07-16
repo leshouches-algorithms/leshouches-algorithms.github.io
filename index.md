@@ -35,7 +35,7 @@ Riccardo          Zecchina           	(Bocconi)            <br>
 
 ## Tentative schedule
 
-<img title="Schedule" alt="Schedule" src="img/schedule.png">
+<img title="Schedule" alt="Schedule" src="img/schedule.pdf">
 
 ## Applications
 

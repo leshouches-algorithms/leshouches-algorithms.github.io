@@ -35,10 +35,12 @@ Riccardo          Zecchina           	(Bocconi)            <br>
 
 ## Applications
 
-Applications will open on 1st September 2024, and the deadline will be on 31st October 2024 (you will find a link to the registration form on this site).
+Applications are open and the deadline to register will be on **31st October 2024**.
 The selection of participants and of contributed speakers will take place shortly after the application deadline.
 <br>
 We warmly invite all applicants to apply either for a contributed talk or for a poster.
+<br>
+<!-- [Registration form](https://forms.gle/zvM4LtkiRP1ceV7y7) -->
 
 ## Practical informations
 
@@ -52,7 +54,7 @@ We warmly invite all applicants to apply either for a contributed talk or for a 
 <br>
     Dedicated discussion time will also be planned to foster exchanges and collaborations.
 
-- The cost of the workshop is still to be defined (we will update this page in the future). It will cover participation to the activities, accommodation and meals at the Les Houches School for the full duration of the workshop.
+- The cost of the workshop is 1200 euros (this fee is preliminary, and will be confirmed in the future based on budget constraints). It will cover participation to the activities, accommodation and meals at the Les Houches School for the full duration of the workshop.
 <br>
 The first meal included is the dinner of Monday 27/01, and the last one is the lunch of Friday 7/02.
 

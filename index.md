@@ -33,6 +33,18 @@ Ilias            Zadik          	    (Yale)               <br>
 Riccardo          Zecchina           	(Bocconi)            <br>
 </div>
 
+## Tentative schedule
+
+| Week 1        | Monday                                    | Tuesday                | Wednesday  | Thursday   | Friday      | Saturday    |
+| ------------- | ----------------------------------------- | ---------------------- | ---------- | ---------- | ----------- | ----------- |
+| 9:00 - 10:30  | Arrival                                   | Lecturer 1             | Lecturer 2 | Lecturer 3 | Lecturer 4  | Round table |
+| 10:30 - 11:00 | Coffee Break                              |
+| 11:00 - 12:30 | Lecturer 2                                | Lecturer 3             | Lecturer 4 | Lecturer 1 | Round table |
+| 12:30         | Lunch                                     |
+|               | Free time (Discussion & other activities) | Free time (discussion) |
+| 17:30 - 19:00 | Lecturer 3                                | Lecturer 4             | Lecturer 1 | Lecturer 2 |
+| 19:30         | Dinner                                    |
+
 ## Applications
 
 Applications are open and the deadline to register will be on **31st October 2024**.

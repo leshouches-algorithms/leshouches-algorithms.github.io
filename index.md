@@ -35,7 +35,173 @@ Riccardo          Zecchina           	(Bocconi)            <br>
 
 ## Tentative schedule
 
-<img title="Schedule" alt="Schedule" src="img/schedule.pdf">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2fdn{border-color:#9b9b9b;text-align:left;vertical-align:top}
+.tg .tg-y1n8{border-color:#9b9b9b;color:#595959;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-u865{border-color:#9b9b9b;color:#595959;text-align:center;vertical-align:middle}
+.tg .tg-9nl5{background-color:#9b9b9b;border-color:#9b9b9b;text-align:left;vertical-align:middle}
+.tg .tg-m6jf{border-color:#9b9b9b;text-align:left;vertical-align:middle}
+.tg .tg-u0tf{border-color:#9b9b9b;color:#595959;text-align:center;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-y1n8"><span style="font-weight:bold;color:#595959">Week 1</span></th>
+    <th class="tg-y1n8"><span style="font-weight:bold;color:#595959">Monday</span></th>
+    <th class="tg-y1n8"><span style="font-weight:bold;color:#595959">Tuesday</span></th>
+    <th class="tg-y1n8"><span style="font-weight:bold;color:#595959">Wednesday</span></th>
+    <th class="tg-y1n8"><span style="font-weight:bold;color:#595959">Thursday</span></th>
+    <th class="tg-y1n8"><span style="font-weight:bold;color:#595959">Friday</span></th>
+    <th class="tg-y1n8"><span style="font-weight:bold;color:#595959">Saturday</span></th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">9:00 - 10:30</span></td>
+    <td class="tg-9nl5"></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 1</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 2</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 3</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 4</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Round table</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">10:30 - 11:00</span></td>
+    <td class="tg-9nl5"></td>
+    <td class="tg-u865" colspan="5"><span style="font-weight:normal;color:#595959">Coffee Break</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">11:00 - 12:30</span></td>
+    <td class="tg-9nl5"></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 2</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 3</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 4</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 1</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Round table</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">12:30</span></td>
+    <td class="tg-9nl5"></td>
+    <td class="tg-u865" colspan="5"><span style="font-weight:normal;color:#595959">Lunch</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m6jf"></td>
+    <td class="tg-u0tf" rowspan="2">Arrival</td>
+    <td class="tg-u865" colspan="4"><span style="font-weight:normal;color:#595959">Free time (Discussion &amp; other activities)</span></td>
+    <td class="tg-u0tf" rowspan="2">Free time (Discussion)</td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">17:30 - 19:00</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 3</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 4</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 1</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Lecturer 2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">19:30</span></td>
+    <td class="tg-u865" colspan="6"><span style="font-weight:normal;color:#595959">Dinner</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-y1n8"><span style="font-weight:bold;color:#595959">Week 2</span></td>
+    <td class="tg-y1n8"><span style="font-weight:bold;color:#595959">Monday</span></td>
+    <td class="tg-y1n8"><span style="font-weight:bold;color:#595959">Tuesday</span></td>
+    <td class="tg-y1n8"><span style="font-weight:bold;color:#595959">Wednesday</span></td>
+    <td class="tg-y1n8"><span style="font-weight:bold;color:#595959">Thursday</span></td>
+    <td class="tg-y1n8"><span style="font-weight:bold;color:#595959">Friday</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">9:00 - 10:00</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">10:00 - 11:00</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">11:00 - 11:30</span></td>
+    <td class="tg-u865" colspan="5"><span style="font-weight:normal;color:#595959">Coffee Break</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">11:30 - 12:30</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Invited talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Discussion</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">12:30</span></td>
+    <td class="tg-u865" colspan="5"><span style="font-weight:normal;color:#595959">Lunch</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-m6jf"></td>
+    <td class="tg-u865" colspan="4"><span style="font-weight:normal;color:#595959">Free time (Discussion &amp; other activities)</span></td>
+    <td class="tg-u0tf" rowspan="5">Departure</td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">17:30 - 18:00</span></td>
+    <td class="tg-u0tf" rowspan="3">Poster Session</td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">18:00 - 18:30</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">18:30 - 19:00</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">Contributed talk</span></td>
+    <td class="tg-m6jf"></td>
+  </tr>
+  <tr>
+    <td class="tg-u865"><span style="font-weight:normal;color:#595959">19:30</span></td>
+    <td class="tg-u865" colspan="4"><span style="font-weight:normal;color:#595959">Dinner</span></td>
+    <td class="tg-2fdn"></td>
+  </tr>
+</tbody></table>
 
 ## Applications
 

@@ -1,5 +1,7 @@
 ![Photo of les houches](img/photo.JPG)
 
+**Applications are open!** [Register here](https://forms.gle/hcihUwtuvpntxAkx9)
+
 Welcome to the website for the workshop _Towards a theory of typical-case algorithmic hardness_, which will take place from the 27/01/2025 to the 7/02/2025 at the Les Houches Physics School in the French alps.
 
 The workshop theme will be typical-case algorithmic hardness, with a special focus on creating bridges between the complementary approaches of theoretical computer science and statistical physics, identifying the crucial open question in the field and linking rigorous and non-rigorous methods.
@@ -210,7 +212,7 @@ The selection of participants and of contributed speakers will take place shortl
 <br>
 We warmly invite all applicants to apply either for a contributed talk or for a poster.
 <br>
-<!-- [Registration form](https://forms.gle/zvM4LtkiRP1ceV7y7) -->
+[Registration form](https://forms.gle/hcihUwtuvpntxAkx9)
 
 ## Practical informations
 

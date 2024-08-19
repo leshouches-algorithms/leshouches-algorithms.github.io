@@ -266,7 +266,7 @@ Ecole de Physique des Houches,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/snsf.jpg" alt="drawing" height="90"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="img/ellis.png" alt="drawing" height="90"/>
+<img src="img/ellis.png" alt="drawing" height="120"/>
 
 ## Partners
 

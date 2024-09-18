@@ -23,7 +23,7 @@ Federico         Ricci-Tersenghi	    (Sapienza)
 
 <div style="column-count: 2;">
 Maria Chiara     Angelini	            (Sapienza)           <br>
-Jean             Barbier              (ICTP Trieste)
+Jean             Barbier              (ICTP Trieste)      <br>
 Giulio           Biroli         	    (ENS)                <br>
 Guy              Bresler                (MIT)                <br>
 Antoine          Maillard           	(ETHZ)               <br>

@@ -31,6 +31,7 @@ Laurent          Massoulié          	(INRIA Paris)        <br>
 Cris             Moore                  (Santa Fe Institute) <br>
 Valentina        Ros            	    (Paris Saclay)       <br>
 Guilhem          Semerjian          	(ENS)                <br>
+Eliran           Subag                (Weizmann)           <br>
 Alex             Wein           	    (UCD)                <br>
 Ilias            Zadik          	    (Yale)               <br>
 Riccardo          Zecchina           	(Bocconi)            <br>

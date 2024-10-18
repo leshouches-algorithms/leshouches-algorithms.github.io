@@ -1,6 +1,6 @@
 ![Photo of les houches](img/photo.JPG)
 
-**Applications are open!** [Register here](https://forms.gle/hcihUwtuvpntxAkx9)
+**Applications are open! Deadline: 31st October 2024.** [Register here](https://forms.gle/hcihUwtuvpntxAkx9)
 
 Welcome to the website for the workshop _Towards a theory of typical-case algorithmic hardness_, which will take place from the 27/01/2025 to the 7/02/2025 at the Les Houches Physics School in the French alps.
 

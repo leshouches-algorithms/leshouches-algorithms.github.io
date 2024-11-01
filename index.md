@@ -209,12 +209,11 @@ Riccardo          Zecchina           	(Bocconi)            <br>
 
 ## Applications
 
-Applications are open and the deadline to register will be on **31st October 2024**.
+**Applications are now closed.** You can still register [here](https://forms.gle/hcihUwtuvpntxAkx9) if you wish to enter the waiting list.
+
 The selection of participants and of contributed speakers will take place shortly after the application deadline.
 <br>
 We warmly invite all applicants to apply either for a contributed talk or for a poster.
-<br>
-[Registration form](https://forms.gle/hcihUwtuvpntxAkx9)
 
 ## Practical informations
 

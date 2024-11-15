@@ -1,6 +1,6 @@
 ![Photo of les houches](img/photo.JPG)
 
-**Applications are now closed.** You can still register [here](https://forms.gle/hcihUwtuvpntxAkx9) if you wish to enter the waiting list.
+**Applications are now closed.** 
 
 Welcome to the website for the workshop _Towards a theory of typical-case algorithmic hardness_, which will take place from the 27/01/2025 to the 7/02/2025 at the Les Houches Physics School in the French alps.
 
@@ -209,7 +209,7 @@ Riccardo          Zecchina           	(Bocconi)            <br>
 
 ## Applications
 
-**Applications are now closed.** You can still register [here](https://forms.gle/hcihUwtuvpntxAkx9) if you wish to enter the waiting list.
+**Applications are now closed.** 
 
 The selection of participants and of contributed speakers will take place shortly after the application deadline.
 <br>

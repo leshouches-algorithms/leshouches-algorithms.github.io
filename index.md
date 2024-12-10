@@ -24,8 +24,9 @@ Federico         Ricci-Tersenghi	    (Sapienza)
 <div style="column-count: 2;">
 Maria Chiara     Angelini	            (Sapienza)           <br>
 Jean             Barbier              (ICTP Trieste)      <br>
-Giulio           Biroli         	    (ENS)                <br>
 Guy              Bresler                (MIT)                <br>
+Ahmed           El Alaoui              (Cornell)           <br>
+  Sam           Hopkins                 (MIT)            <br>
 Antoine          Maillard           	(ETHZ)               <br>
 Laurent          Massoulié          	(INRIA Paris)        <br>
 Cris             Moore                  (Santa Fe Institute) <br>

@@ -260,10 +260,12 @@ Ecole de Physique des Houches,<br>
 
 ## Sponsors
 
-<img src="img/cfm.png" alt="drawing" height="90"/>
+<a href="https://www.fondation-cfm.org/">
+  <img src="img/cfm.png" alt="drawing" height="90"/>
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.epfl.ch/labs/idephics/">
-<img src="img/idephix.jpg" alt="drawing" height="90"/>
+  <img src="img/idephix.jpg" alt="drawing" height="90"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/epfl.png" alt="drawing" height="90"/>
@@ -273,7 +275,7 @@ Ecole de Physique des Houches,<br>
 <img src="img/ellis.png" alt="drawing" height="120"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.gpeyre.com/wolf/">
-<img src="img/wolf.png" alt="drawing" height="120"/>
+  <img src="img/wolf.png" alt="drawing" height="120"/>
 </a>
 ## Partners
 

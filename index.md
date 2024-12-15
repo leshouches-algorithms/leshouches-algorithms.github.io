@@ -1,6 +1,6 @@
 ![Photo of les houches](img/photo.JPG)
 
-**Applications are now closed.** 
+**Applications are now closed.**
 
 Welcome to the website for the workshop _Towards a theory of typical-case algorithmic hardness_, which will take place from the 27/01/2025 to the 7/02/2025 at the Les Houches Physics School in the French alps.
 
@@ -210,7 +210,7 @@ Riccardo          Zecchina           	(Bocconi)            <br>
 
 ## Applications
 
-**Applications are now closed.** 
+**Applications are now closed.**
 
 The selection of participants and of contributed speakers will take place shortly after the application deadline.
 <br>
@@ -262,14 +262,19 @@ Ecole de Physique des Houches,<br>
 
 <img src="img/cfm.png" alt="drawing" height="90"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.epfl.ch/labs/idephics/">
 <img src="img/idephix.jpg" alt="drawing" height="90"/>
+</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/epfl.png" alt="drawing" height="90"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/snsf.jpg" alt="drawing" height="90"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="img/ellis.png" alt="drawing" height="120"/>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.gpeyre.com/wolf/">
+<img src="img/wolf.png" alt="drawing" height="120"/>
+</a>
 ## Partners
 
 <img src="img/uga.svg" alt="drawing" height="90"/>

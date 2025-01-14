@@ -22,10 +22,13 @@ Federico         Ricci-Tersenghi	    (Sapienza)
 ## Confirmed invited speakers
 
 <div style="column-count: 2;">
+  Dimitris Achiloptas (University of Athens) <br>
 Maria Chiara     Angelini	            (Sapienza)           <br>
 Jean             Barbier              (ICTP Trieste)      <br>
 Guy              Bresler                (MIT)                <br>
 Ahmed           El Alaoui              (Cornell)           <br>
+  Luca          Ganassali              (Paris Saclay)    <br>
+  Sebastian Goldt        (Sissa Trieste) <br>
   Sam           Hopkins                 (MIT)            <br>
 Antoine          Maillard           	(ETHZ)               <br>
 Laurent          Massoulié          	(INRIA Paris)        <br>

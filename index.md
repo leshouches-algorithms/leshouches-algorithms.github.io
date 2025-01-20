@@ -25,7 +25,6 @@ Federico         Ricci-Tersenghi	    (Sapienza)
   Dimitris Achiloptas (University of Athens) <br>
 Maria Chiara     Angelini	            (Sapienza)           <br>
 Jean             Barbier              (ICTP Trieste)      <br>
-Guy              Bresler                (MIT)                <br>
 Ahmed           El Alaoui              (Cornell)           <br>
   Luca          Ganassali              (Paris Saclay)    <br>
   Sebastian Goldt        (Sissa Trieste) <br>

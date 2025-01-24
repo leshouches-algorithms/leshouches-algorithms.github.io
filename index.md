@@ -16,7 +16,7 @@ __Organisers:__  [Vittorio Erba](https://vittorioerba.github.io)  (EPFL, SPOC La
 Afonso           Bandeira           	(ETHZ)          <br>
 David            Gamarnik           	(MIT)           <br>
 Florent          Krzakala               (EPFL)          <br>
-Federico         Ricci-Tersenghi	    (Sapienza)      
+Riccardo          Zecchina           	(Bocconi)            
 </div>
 
 ## Confirmed invited speakers
@@ -35,9 +35,9 @@ Cris             Moore                  (Santa Fe Institute) <br>
 Valentina        Ros            	    (Paris Saclay)       <br>
 Guilhem          Semerjian          	(ENS)                <br>
 Eliran           Subag                (Weizmann)           <br>
+  Stefan  Tiegel    (ETHZ)                            <br>
 Alex             Wein           	    (UCD)                <br>
-Ilias            Zadik          	    (Yale)               <br>
-Riccardo          Zecchina           	(Bocconi)            <br>
+Ilias            Zadik          	    (Yale)               
 </div>
 
 ## Tentative schedule

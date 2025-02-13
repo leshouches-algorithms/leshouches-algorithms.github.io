@@ -2,7 +2,7 @@
 
 **Conference photo:** ![Conference photo](img/group-photo.jpeg)
 
-<!-- **Videos of the talks:** [link](https://videos.univ-grenoble-alpes.fr/luniversite/2025-towards-a-theory-for-typical-case-algorithmic-hardness/) --!> 
+**Videos of the talks:** [link](https://videos.univ-grenoble-alpes.fr/luniversite/2025-towards-a-theory-for-typical-case-algorithmic-hardness/)
 
 Welcome to the website for the workshop _Towards a theory of typical-case algorithmic hardness_, which will take place from the 27/01/2025 to the 7/02/2025 at the Les Houches Physics School in the French alps.
 
